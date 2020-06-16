@@ -11,6 +11,7 @@ This analysis & more is explained in three articles
 # Data
 
 India: Using Data provided by https://www.covid19india.org/ through its API
+
 US: Data from https://coronavirus.1point3acres.com
 
 # Methodology
